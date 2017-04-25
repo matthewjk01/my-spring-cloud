@@ -11,7 +11,7 @@ public class ConfigServerApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("ha");
+		System.out.println("haha");
 	}
 
 }
